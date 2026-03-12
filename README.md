@@ -36,7 +36,7 @@ Creative UI concepts
 It can also be used as a portfolio mini-project or a learning example for beginners.
 # 📸 Preview
 Click this link to get the live preview of this code running in a site👇🏻👇🏻👇🏻
-dronedeliveryaftabsunny.netlify.app
+https://dronedeliveryaftabsunny.netlify.app/
 
 # 🤝 Contributing
 Contributions, suggestions, or improvements are welcome.
