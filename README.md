@@ -3,8 +3,8 @@
 A simple Drone Delivery Animation built using HTML, CSS, and JavaScript.
 This project simulates a drone flying and delivering a package using smooth animations and basic front-end techniques.
 # 🌐 Live Demo
-👉 <a href="https://dronedeliveryaftabsunny.netlify.app/">Click here to see the live preview</a>
-https://dronedeliveryaftabsunny.netlify.app/
+👉 <a href="https://drone-delivery-code-aasunny.blackparrotfedora.workers.dev/">Click here to see the live preview</a>
+https://drone-delivery-code-aasunny.blackparrotfedora.workers.dev/
 # 📌 Features
 Animated drone flight movement
 Package delivery effect
